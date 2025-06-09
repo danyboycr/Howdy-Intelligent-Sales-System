@@ -25,7 +25,7 @@ This project builds an intelligent forecasting, simulation, and recommendation s
 | Folder/File                  | Description                                      |
 |-----------------------------|--------------------------------------------------|
 | `/notebooks`                | Jupyter notebook (end-to-end implementation)     |
-| `/data`                     | Sample dataset used for simulation               |
+| `/data`                     | Howdy Group's dataset used for simulation               |
 | `/visuals`                  | SHAP charts, risk heatmaps, scenario outputs     |
 | `README.md`                 | This file                                        |
 | `requirements.txt`          | Python packages used                             |
