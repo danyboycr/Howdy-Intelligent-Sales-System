@@ -63,7 +63,7 @@ Delivered real-time analytics through an interactive Power BI dashboard
 
 👨‍💼 Author
 
-Developedby Muhammad Danish during my tenure as Business Analytics & Compliance Executive at Howdy Group, as part of ongoing efforts to enhance operational intelligence, predictive planning, and outlet-level decision support.
+Developed by Muhammad Danish during tenure as Business Analytics & Compliance Executive at Howdy Group, as part of ongoing efforts to enhance operational intelligence, predictive planning, and outlet-level decision support.
 
 🏁 How to Use
 
