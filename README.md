@@ -38,10 +38,6 @@ howdy_intelligence_system.ipynb
 
 Howdy_Analytics_Dashboard.pbix
 
-f7_simulation_recommendations.xlsx
-
-rf_f7_predictions.xlsx
-
 Howdy_DF.xlsx
 
 AllOutletsModel.csv
