@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sample.png" alt="Howdy Sales System Banner" width="100%" />
+  <img src="sample dash.png" alt="Howdy Sales System Banner" width="100%" />
 </p>
 
 
