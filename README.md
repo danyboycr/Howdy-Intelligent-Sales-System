@@ -71,7 +71,3 @@ Open howdy_intelligence_system.ipynb to inspect model logic
 Explore Howdy_Analytics_Dashboard.pbix to interact with predictions
 
 Analyze f7_simulation_recommendations.xlsx for batch-wise scenarios and model flags
-
-📌 Tags
-#MachineLearning #BusinessAnalytics #PowerBI #Forecasting #RandomForest #SHAP #Simulation #Python #RestaurantAnalytics
-
