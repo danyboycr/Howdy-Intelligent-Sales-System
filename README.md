@@ -34,37 +34,19 @@ Added a simulation log table for 4,000+ predictions
 
 📁 Files in This Repo
 
-File
-
-Purpose
-
 howdy_intelligence_system.ipynb
-
-Python model, SHAP, simulation engine
 
 Howdy_Analytics_Dashboard.pbix
 
-Power BI dashboard (interactive)
-
 f7_simulation_recommendations.xlsx
-
-4,000+ scenarios with promo, risk, output
 
 rf_f7_predictions.xlsx
 
-Predicted vs actual from RF model
-
 Howdy_DF.xlsx
-
-Cleaned dataset used in modeling
 
 AllOutletsModel.csv
 
-Aggregated predictions for all outlets
-
 Howdy Project Summary.pdf
-
-Executive narrative with methods + insights
 
 ✅ Business Impact
 
@@ -91,6 +73,5 @@ Explore Howdy_Analytics_Dashboard.pbix to interact with predictions
 Analyze f7_simulation_recommendations.xlsx for batch-wise scenarios and model flags
 
 📌 Tags
-
 #MachineLearning #BusinessAnalytics #PowerBI #Forecasting #RandomForest #SHAP #Simulation #Python #RestaurantAnalytics
 
