@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="dash.png" alt="Howdy Sales System Banner" width="100%" />
+</p>
 
 Howdy Intelligent Sales System
 
